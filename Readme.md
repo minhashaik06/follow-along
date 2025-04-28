@@ -28,3 +28,5 @@ This is a mentor-assisted full-stack e-commerce project developed with the **MER
   - Order Processing & Secure Checkout
 - Designed API structure & MongoDB schema
 - Set up GitHub repository and organized project files
+
+<!-- small update for PR -->
